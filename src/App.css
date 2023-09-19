@@ -11,7 +11,7 @@
 }
 
 html {
-    font-family: 'Press Start 2P';
+    font-family: 'Press Start 2P', cursive;
     font-size: 62.5%;
     height: 100%;
 }
@@ -116,7 +116,7 @@ html, body, #root, .app  {
 /* BUTTONS */
 .btn {
     color: var(--white);
-    font-family: "Press Start 2P";
+    font-family: 'Press Start 2P', cursive;
 }
 
 .btn--blue {
@@ -164,7 +164,7 @@ html, body, #root, .app  {
 
 .input-label {
     color: var(--white);
-    font-family: 'Press Start 2P';
+    font-family: 'Press Start 2P', cursive;
     font-size: 1.5rem;
 }
 
@@ -173,7 +173,7 @@ html, body, #root, .app  {
     box-sizing: border-box;
     border: .4rem solid var(--white);
     color: var(--white);
-    font-family: 'Press Start 2P';
+    font-family: 'Press Start 2P', cursive;
     font-size: 1.5rem;
     height: 4.5rem;
     margin-top: .5rem;
@@ -202,7 +202,7 @@ html, body, #root, .app  {
     border: .4rem solid var(--white);
     box-sizing: border-box;
     color: var(--white);
-    font-family: 'Press Start 2P';
+    font-family: 'Press Start 2P', cursive;
     font-size: 1.5rem;
     height: 4.5rem;
     text-align: center;
@@ -231,13 +231,13 @@ input:focus {
 
 .check-mark {
     color: var(--white);
-    font-family: 'Press Start 2P';
+    font-family: 'Press Start 2P', cursive;
     font-size: 3rem;
 }
 
 /* TYPO */
 .container-label {
-    font-family: 'Press Start 2P';
+    font-family: 'Press Start 2P', cursive;
     font-size: 2rem;
     font-weight: 400;
     text-align: center;
@@ -259,7 +259,7 @@ input:focus {
 
 .text {
     color: var(--white);
-    font-family: 'Press Start 2P';
+    font-family: 'Press Start 2P', cursive;
     font-size: 1.5rem;
     line-height: 130%;
 }
