@@ -266,8 +266,7 @@ export const ContextProvider = ({ children }) => {
     if (sustainedHits) {
       output =
         output +
-        sortedSuccesses(output, numberNeeded, criticalHitsOn).criticalOnes
-          .criticalOnes *
+        sortedSuccesses(output, numberNeeded, criticalHitsOn).criticalOnes *
           sustainedHits;
     }
 
